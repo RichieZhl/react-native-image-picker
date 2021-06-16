@@ -5,8 +5,7 @@
 #import <AVFoundation/AVFoundation.h>
 #import <Photos/Photos.h>
 #import <PhotosUI/PhotosUI.h>
-
-@import MobileCoreServices;
+#import <MobileCoreServices/MobileCoreServices.h>
 
 @interface ImagePickerManager ()
 
